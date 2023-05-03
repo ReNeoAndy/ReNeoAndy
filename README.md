@@ -1,4 +1,4 @@
-![Header](./SIP/public/github-header-image.png)
+![Header](./github-header-image.png)
 #
 <summary><h2> 🌱 🔭</h2></summary>
 - I’m currently working on Proyect Alice (Coming soon)
