@@ -1,8 +1,6 @@
 ![Header](./github-header-image.png)
 #
 <summary><h2> 🌱 🔭</h2></summary>
-- I’m currently working on Proyect Alice (Coming soon)
-
 - 👨‍💻 Computer Science at Facultad de Ciencias UNAM
 - <a href="#"><img alt="Dogecoin" src="https://img.shields.io/badge/Dogecoin-C2A633?logo=dogecoin&logoColor=white"></a> <a href="#"><img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white"></a>
 
